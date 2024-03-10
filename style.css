@@ -1,0 +1,14 @@
+/* Custom styles for Los Angeles Lakers theme */
+body {
+    background-color: #552583; /* Purple */
+    color: #FDB927; /* Gold */
+}
+
+.jumbotron {
+    background-color: #552583; /* Purple */
+    color: #FDB927; /* Gold */
+}
+
+section {
+    margin-bottom: 30px;
+}
